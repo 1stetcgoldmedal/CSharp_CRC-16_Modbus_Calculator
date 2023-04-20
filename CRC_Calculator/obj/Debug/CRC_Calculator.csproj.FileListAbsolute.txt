@@ -1,0 +1,11 @@
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\bin\Debug\CRC_Calculator.exe.config
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\bin\Debug\CRC_Calculator.exe
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\bin\Debug\CRC_Calculator.pdb
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.csproj.AssemblyReference.cache
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.Main.resources
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.Properties.Resources.resources
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.csproj.GenerateResource.cache
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.exe
+C:\Users\qstech\source\repos\CRC_Calculator\CRC_Calculator\obj\Debug\CRC_Calculator.pdb
